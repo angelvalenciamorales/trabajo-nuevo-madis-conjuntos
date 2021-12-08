@@ -1,0 +1,34 @@
+﻿2018-10-30T16:49:42.2107858-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-10-30T16:49:42.2177894-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-10-30T16:49:42.2187929-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\TestConjunto\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-10-30T16:49:42.2948423-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-10-30T16:49:42.2948423-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\TestConjunto\bin\Debug\TestConjunto.dll
+2018-10-30T16:49:42.2978443-05:00;VSTestExecutionThread;Info;Profile: 
+2018-10-30T16:49:55.8113487-05:00;Thread#15;Info;starting test run
+2018-10-30T16:49:55.8603865-05:00;Thread#15;Info;Discovering target: Default
+Test Suite Dump
+#0: Unnamed project/ - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2018-10-30T16:49:56.3707201-05:00;Thread#15;Info;test run finished
+2018-10-30T16:49:56.3717208-05:00;Thread#15;Info;publishing test results
+2018-10-30T16:49:56.7859968-05:00;Thread#15;Info;test results published
+2018-10-30T16:49:56.7879982-05:00;Thread#15;Info;generating reports
+2018-10-30T16:49:56.8740554-05:00;Thread#15;Info;creating 1 report(s)
+2018-10-30T16:49:56.8750555-05:00;Thread#15;Info;generate Report ReportTemplate.cshtml
+2018-10-30T16:50:02.8831714-05:00;Thread#15;Info;reports generated
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2018-10-30T16:50:02.9001810-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-10-30T16:50:02.9021846-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\TestResults\Unnamed project__2018-10-30T164942.html'
+2018-10-30T16:50:02.9382063-05:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\CJ\Documents\Visual%20Studio%202015\Projects\Aplicacion_Conjuntos\TestResults\Unnamed%20project__2018-10-30T164942.log

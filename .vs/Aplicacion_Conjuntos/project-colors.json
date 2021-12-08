@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "52cb261f-1c09-4b15-807e-a91e95224d77": {
+      "ProjectGuid": "52cb261f-1c09-4b15-807e-a91e95224d77",
+      "DisplayName": "Aplicacion_Conjuntos",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

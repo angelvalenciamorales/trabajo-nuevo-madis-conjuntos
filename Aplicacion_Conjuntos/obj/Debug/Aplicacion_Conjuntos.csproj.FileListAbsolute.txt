@@ -1,0 +1,20 @@
+c:\users\cj\documents\visual studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\bin\Debug\Aplicacion_Conjuntos.exe.config
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\bin\Debug\Aplicacion_Conjuntos.exe
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\bin\Debug\Aplicacion_Conjuntos.pdb
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.FrmConjuntoDoble.resources
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.Properties.Resources.resources
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.csproj.GenerateResource.Cache
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.exe
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.pdb
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.csprojAssemblyReference.cache
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\angel valencia\Downloads\Madis\Aplicacion_Conjuntos\Aplicacion_Conjuntos\bin\Debug\Aplicacion_Conjuntos.exe.config
+C:\Users\angel valencia\Downloads\Madis\Aplicacion_Conjuntos\Aplicacion_Conjuntos\bin\Debug\Aplicacion_Conjuntos.exe
+C:\Users\angel valencia\Downloads\Madis\Aplicacion_Conjuntos\Aplicacion_Conjuntos\bin\Debug\Aplicacion_Conjuntos.pdb
+C:\Users\angel valencia\Downloads\Madis\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.csproj.AssemblyReference.cache
+C:\Users\angel valencia\Downloads\Madis\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.FrmConjuntoDoble.resources
+C:\Users\angel valencia\Downloads\Madis\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.Properties.Resources.resources
+C:\Users\angel valencia\Downloads\Madis\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.csproj.GenerateResource.cache
+C:\Users\angel valencia\Downloads\Madis\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\angel valencia\Downloads\Madis\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.exe
+C:\Users\angel valencia\Downloads\Madis\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.pdb
